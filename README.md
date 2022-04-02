@@ -68,7 +68,7 @@ crydwell.dev@gmail.com
 
 ---
 ## Templates Used & Credits
-Developed using: Xamarin.Forms framework in .NET:
+Developed using Xamarin.Forms framework in .NET by Xamarin:
 https://dotnet.microsoft.com/en-us/apps/xamarin/xamarin-forms
 
 XCalendar by Marvin E:
