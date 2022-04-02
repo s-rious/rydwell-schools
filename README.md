@@ -8,7 +8,7 @@ Developed by Cameron Rydwell in C# & XAML for the 'Mobile Application Developmen
 
 ---
 ## Templates Used & Credits
-Developed using: Xamarin.Forms framework in .NET
+Developed using: Xamarin.Forms framework in .NET:
 https://dotnet.microsoft.com/en-us/apps/xamarin/xamarin-forms
 
 XCalendar by Marvin E:
