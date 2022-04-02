@@ -17,12 +17,14 @@ https://github.com/ME-MarvinE/XCalendar
 ---
 ## Installation Instructions:
 
-1. Download the 'rydwell.schools.v[#].[#].APK' attached on an Android Device
+1. Download the 'rydwell.schools.v#.x#.APK' attached on an Android Device
 2. Tap "Install" when prompted "Do you want to install this app?"
 3. Follow any directions given by your device
 4. Open the application
 5. Enjoy the 'Rydwell Schools' application
 
+
+---
 ## Common Errors & Interruptions:
 
 ### "Your phone currently isn't allowed to install unknown apps from this source"
@@ -38,3 +40,6 @@ https://github.com/ME-MarvinE/XCalendar
 - This error occurs due to Play Protect not having any data or history on the application 'Rydwell Schools'.
 - This error can be disregarded as, like the "Blocked by Play Protect" error, it is just not recognized by the Play Protect system due to it being downloaded from an outside source.
 - Simply tap "Send" or "Don't send", and you will be on your way with using the application.
+
+### Any additional bugs, complaints, or errors that occur can be emailed to the developer directly:
+crydwell.dev@gmail.com
