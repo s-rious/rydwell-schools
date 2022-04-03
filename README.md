@@ -1,6 +1,6 @@
 # Rydwell Schools README
 
-**Version 1.1.0**
+**Version 1.2.0**
 
 Basic structure and fundamentals of the 'Rydwell Schools' Android Application
 
