@@ -40,7 +40,7 @@ Screenshotted on Samsung Galaxy S10 (3040 x 1440)
 
 ## Installation Instructions:
 
-1. [Download the 'rydwell.schools.v#.x#.APK'](https://drive.google.com/drive/folders/1SB2gY-3Ww3H2kxUge21Rb9Nz5nVN90gv?usp=sharing) on an Android Device.
+1. [Download the Rydwell Schools APK](https://drive.google.com/drive/folders/1SB2gY-3Ww3H2kxUge21Rb9Nz5nVN90gv?usp=sharing) on an Android Device.
 2. Tap "Install" when prompted "Do you want to install this app?"
 3. Follow any directions given by your device
 4. Open the application
