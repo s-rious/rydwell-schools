@@ -7,8 +7,10 @@ Basic structure and fundamentals of the 'Rydwell Schools' Android Application
 Developed by Cameron Rydwell in C# & XAML for the 'Mobile Application Development' 2022 NLC Topic for Future Business Leaders of America
 
 ## Table of Contents:
+* [Features](#features)
 * [Screenshots](#screenshots)
 * [Installation](#installation-instructions)
+* [How to use](#how-to-use)
 * [Common Errors & Interruption](#common-errors--interruptions)
 * [Templates & Credits](#templates-used--credits)
 ---
@@ -59,7 +61,8 @@ Screenshotted on Samsung Galaxy S10 (3040 x 1440)
 5. Enjoy the 'Rydwell Schools' application
 
 ---
-## How to use
+## How to use:
+
 1. Once the app is installed, you will be logged into the app with your current credentials and put on the home page
 2. To navigate to other slides, click the three lines in the top left corner to open the navigation flyout
 3. Click on a page you wish to visit
