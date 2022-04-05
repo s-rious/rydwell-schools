@@ -14,27 +14,30 @@ Developed by Cameron Rydwell in C# & XAML for the 'Mobile Application Developmen
 ---
 
 ## Screenshots
-Application Version 1.1.0
+Application Version 1.2.0
 
 Screenshotted on Samsung Galaxy S10 (3040 x 1440)
 
 ### Navigation Flyout
-<img src="https://user-images.githubusercontent.com/89942884/161398900-202deb23-857e-4143-b0b7-ce83282606fb.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/89942884/161702973-4c7baebb-cb17-4337-ba00-35dab4797a3b.jpg" height="500">
+
+### Home Page
+<img src="https://user-images.githubusercontent.com/89942884/161702258-e91e2528-9a5d-4123-b2c7-e7cc190358ab.jpg" height="500">
 
 ### Browse Page
-<img src="https://user-images.githubusercontent.com/89942884/161398906-553a37f2-339c-4d67-845c-ec13c2379b5d.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/89942884/161702472-d08d47a3-a214-46c7-8f58-b937f7a7f6a6.jpg" height="500">
 
 ### Calendar Page
-<img src="https://user-images.githubusercontent.com/89942884/161398923-17023b86-09e9-4f8f-9d8f-072b138f5c47.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/89942884/161702522-84b866ae-59a9-4aac-b101-67b765e7a93d.jpg" height="500">
 
 ### Lunch Page
-<img src="https://user-images.githubusercontent.com/89942884/161398932-9cfc64db-95f1-40dc-a23c-bac775dadcfc.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/89942884/161702562-3b1625e6-2c28-438b-8864-2db5b7c8acc3.jpg" height="500">
 
 ### Email Page
-<img src="https://user-images.githubusercontent.com/89942884/161398938-850f8bc5-effc-435c-ba1c-9ed082215651.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/89942884/161702624-4933a7c5-cc94-4cee-bd18-56ca6b13e10a.jpg" height="500">
 
 ### Activities Page
-<img src="https://user-images.githubusercontent.com/89942884/161398945-40fadea1-df50-432c-b8f7-71a7a01b180e.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/89942884/161702689-c0553440-f4f1-4e4d-beef-2ec4bb72b359.jpg" height="500">
 
 ---
 
@@ -74,4 +77,5 @@ https://dotnet.microsoft.com/en-us/apps/xamarin/xamarin-forms
 XCalendar by Marvin E:
 https://github.com/ME-MarvinE/XCalendar
 
+Coded in XAML and C#
 ---
