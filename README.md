@@ -12,7 +12,16 @@ Developed by Cameron Rydwell in C# & XAML for the 'Mobile Application Developmen
 * [Common Errors & Interruption](#common-errors--interruptions)
 * [Templates & Credits](#templates-used--credits)
 ---
+## Features
+- A full interactive user interface that allows students to view numerous tools that can be used relating to their school
+- A 'Home' page that shows a students current activities, grades, upcoming events, and their lunch menu for the day
+- A 'Notepad' page that will locally save a users notes with a title and limitless body
+- An interactive 'Calendar' page that can be used to view upcoming events by clicking on a specific date
+- A 'Lunch Menu' page to display the lunch for the current and following week
+- An 'Email' page to email teachers and staff within their school system
+- An 'Activities' page that displays the schools current activities and clubs that are offered, featuring a short description, the teachers name, and requirements to participate in selected activities.
 
+---
 ## Screenshots
 Application Version 1.2.0
 
@@ -48,6 +57,39 @@ Screenshotted on Samsung Galaxy S10 (3040 x 1440)
 3. Follow any directions given by your device
 4. Open the application
 5. Enjoy the 'Rydwell Schools' application
+
+---
+## How to use
+1. Once the app is installed, you will be logged into the app with your current credentials and put on the home page
+2. To navigate to other slides, click the three lines in the top left corner to open the navigation flyout
+3. Click on a page you wish to visit
+
+### Browse/Notes Page:
+***To add a note:***
+1. Click the "Add" button in the top right corner
+2. You will be prompted to add a required title and body
+3. Click the "Save" button
+
+***To view a note:***
+1. Click on the note you wish to review and expand upon
+
+### Calendar Page:
+1. Navigate to a date you wish to view the events on through the arrows at the top
+2. Click on the date, and an alert box will be given to tell you of that dates events
+
+### Email Page:
+1. Fill out your email address
+2. Fill out the email address for the teacher or staff member you wish to email
+3. Fill out the title that will be the subject of your email
+4. Fill out the body information of what you wish to communicate with them
+5. Click "Send Mail" button
+
+### Activities Page:
+1. Find an activity you are interested in by scrolling up and down the page
+2. View the information that is provided
+3. Click the "Sign Up" button
+4. Review the requirements that are needed
+5. Click the OK button, which will sign you up for the activity.
 
 ---
 ## Common Errors & Interruptions:
