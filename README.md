@@ -1,10 +1,10 @@
 # Rydwell Schools README
 
-**Version 1.3.0**
+**Version 2.0.0**
 
 Basic structure and fundamentals of the 'Rydwell Schools' Android Application
 
-Developed by Cameron Rydwellfor the 'Mobile Application Development' 2022 NLC Topic for Future Business Leaders of America
+Developed by Cameron Rydwell for the 'Mobile Application Development' 2022 NLC Topic for Future Business Leaders of America
 
 ## Table of Contents:
 * [Features](#features)
@@ -15,9 +15,10 @@ Developed by Cameron Rydwellfor the 'Mobile Application Development' 2022 NLC To
 * [Templates & Credits](#templates-used--credits)
 ---
 ## Features
+- A full database system linked to all user profiles and data
 - A full interactive user interface that allows students to view numerous tools that can be used relating to their school
 - A 'Home' page that shows a students current activities, grades, upcoming events, and their lunch menu for the day
-- A 'Notepad' page that will locally save a users notes with a title and limitless body
+- A 'Notepad' page that will locally save a users notes with a title and limitless body, alongside with the option to add a date to set an event in the calendar
 - An interactive 'Calendar' page that can be used to view upcoming events by clicking on a specific date
 - A 'Lunch Menu' page to display the lunch for the current and following week
 - An 'Email' page to email teachers and staff within their school system
@@ -25,18 +26,24 @@ Developed by Cameron Rydwellfor the 'Mobile Application Development' 2022 NLC To
 
 ---
 ## Screenshots
-Application Version 1.3.0
+Application Version 2.0.0
 
-Screenshotted on Samsung Galaxy S10 (3040 x 1440)
+Screenshotted on Samsung Galaxy S22 (3040 x 1440)
+
+### Login Page
+<img src="https://user-images.githubusercontent.com/89942884/174470656-3b08d639-e8c6-4776-b920-cffed5b3e10f.jpg" height="500">
+
+### Registration Page
+<img src="https://user-images.githubusercontent.com/89942884/174470694-35807768-f18b-422c-8a27-ae4670f817f3.jpg" height="500">
 
 ### Navigation Flyout
 <img src="https://user-images.githubusercontent.com/89942884/161851006-ee63a41d-f964-4428-a356-5116d5290951.jpg" height="500">
 
 ### Home Page
-<img src="https://user-images.githubusercontent.com/89942884/161851079-8f1627bf-0932-44cb-aea0-c4e299d7ffc6.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/89942884/174470702-baf08e01-fcdb-4270-91de-0f4304c80d16.jpg" height="500">
 
 ### Notes Page
-<img src="https://user-images.githubusercontent.com/89942884/161851176-b5d42644-f93c-402c-9655-f28dbd1ba812.jpg" height="500">
+<img src="https://user-images.githubusercontent.com/89942884/174470747-fdc8f624-ed20-49d7-ace3-4149c5171b75.jpg" height="500">
 
 ### Calendar Page
 <img src="https://user-images.githubusercontent.com/89942884/161851267-2803e9b2-cc30-4f86-821c-e6d9a3b84200.jpg" height="500">
@@ -63,14 +70,25 @@ Screenshotted on Samsung Galaxy S10 (3040 x 1440)
 ---
 ## How to use:
 
-1. Once the app is installed, you will be logged into the app with your current credentials and put on the home page
+1. Once the app is installed, you will be prompted to login. Logging in with existing information will direct you to the home page. If you do not have an account, [view this](#registration).
 2. To navigate to other slides, click the three lines in the top left corner to open the navigation flyout
 3. Click on a page you wish to visit
+
+### Registration:
+1. Click on the "Register" button at the bottom of the login box on the login page
+2. Enter all credentials that are prompted
+
+***"Username/Email already taken"***
+1. Simply change the username to something else or use a different email address
+
+***"User Registration Successful"***
+1. Press the "Okay" button to be returned to the login page
+2. Fill in all credentials with the account you just created
 
 ### Browse/Notes Page:
 ***To add a note:***
 1. Click the "Add" button in the top right corner
-2. You will be prompted to add a required title and body
+2. You will be prompted to add a required title, date, and body
 3. Click the "Save" button
 
 ***To view a note:***
