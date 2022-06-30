@@ -140,7 +140,12 @@ Coded in C# and XAML
 Developed using Xamarin.Forms framework in .NET by Xamarin:
 https://dotnet.microsoft.com/en-us/apps/xamarin/xamarin-forms
 
-XCalendar by Marvin E:
-https://github.com/ME-MarvinE/XCalendar
+Xamarin.Plugin.Calendar by Little Code:
+https://github.com/lilcodelab/Xamarin.Plugin.Calendar
 
+SQLite-net Database by Frank A. Krueger:
+https://github.com/praeclarum/sqlite-net
+
+Json.NET by James Newton-King:
+https://www.newtonsoft.com/json/help/html/Introduction.htm
 ---
